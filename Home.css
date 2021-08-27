@@ -1346,12 +1346,12 @@
 
 @media (max-width: 575px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 668px;
+    min-height: 219px;
   }
 
   .u-section-5 .u-layout-wrap-1 {
     margin-top: 10px;
-    margin-bottom: 0;
+    margin-bottom: 10px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
